@@ -157,9 +157,3 @@ def postprocessing(text, upper_words):
     text = ' '.join(text)
     print("Add {} big letters in text".format(counter))
     return text
-
-
-
-
-
-
